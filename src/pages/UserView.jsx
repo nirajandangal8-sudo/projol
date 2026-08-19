@@ -32,8 +32,8 @@ function UserView() {
           <h2>{user.name}</h2>
           <p>Email: {user.email}</p>
           <p>Username: {user.username}</p>
-          <p>Age: {user.age}</p>
-          <p>Gender: {user.gender}</p>
+          <p>phone:{user.phone}</p>
+          <p> wedsite:{user.website} </p>
         </div>
       )}
     </div>
